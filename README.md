@@ -1,7 +1,7 @@
 jazoon-git-workshops
 ===================
 
-Git workshops prepared for [Jazoon 2013](jazoon.com/2013/).
+Git workshops prepared for [Jazoon 2013](http://jazoon.com/2013/).
 
 
 Setup
