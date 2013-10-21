@@ -3,7 +3,6 @@ jazoon-git-workshops
 
 Git workshops prepared for [Jazoon 2013](jazoon.com/2013/).
 
-I  hope we get great reviews!
 
 Setup
 ===================
