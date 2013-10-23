@@ -47,3 +47,8 @@ GitHub account
 ===================
 
 Part of the labs will be based on working with remote repositories. We strongly encourage you to create GitHub account before the workshop, so we can use this great platform to learn how to collaborate using Git.
+
+Other infos
+===========
+
+Just a demo... and bla...
