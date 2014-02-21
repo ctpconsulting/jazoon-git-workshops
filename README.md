@@ -46,5 +46,5 @@ git version 1.8.4
 GitHub account
 ===================
 
-Part of the labs will be based on working with remote repositories. We strongly encourage you to create GitHub account before the workshop, so we can use this great platform to learn how to collaborate using Git.
-
+Part of the labs will be based on working with remote repositories. We strongly 
+encourage you to create GitHub account beforehand, so we can use this great platform to learn how to collaborate using Git.
