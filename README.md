@@ -29,7 +29,7 @@ curl https://raw.github.com/ctpconsulting/jazoon-git-workshops/master/git-shell 
 Or you can simply run following one liner
 
 ```
-{ wget https://raw.github.com/ctpconsulting/jazoon-git-workshops/master/install.sh -O install.sh; chmod u+x install.sh; ./install.sh; }
+source <(curl https://raw.githubusercontent.com/ctpconsulting/jazoon-git-workshops/master/install.sh)
 ```
 
 If you don't want to use Ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't guarantee however that all labs will be working smoothly, as we are going to test it only on the suggested environment.
